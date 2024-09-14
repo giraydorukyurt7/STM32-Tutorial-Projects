@@ -1,6 +1,6 @@
 # STM32-Tutorial-Projects
 
-This repository contains two branches dedicated to STM32 tutorial projects:
+This repository contains two branches dedicated to the STM32 projects I have worked on, along with tutorials:
 
 ## Branches Overview:
 
